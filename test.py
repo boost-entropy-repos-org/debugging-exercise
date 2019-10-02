@@ -1,4 +1,4 @@
-from exercise import minCost, minCost2
+from exercise import minCost
 import pytest
 
 @pytest.fixture
