@@ -15,3 +15,5 @@ Output: 10
 Explanation: Paint house 0 into blue, paint house 1 into green, paint house 2 into blue. 
              Minimum cost: 2 + 5 + 3 = 10.
 ```
+
+After installing the required packages, run the tests with `pytest test.py`
